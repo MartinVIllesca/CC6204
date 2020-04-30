@@ -1,0 +1,3 @@
+[submodule "CC7221/CC7221"]
+	path = CC7221/CC7221
+	url = https://github.com/jmsaavedrar/CC7221.git
