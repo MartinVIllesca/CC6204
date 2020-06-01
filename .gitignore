@@ -1,3 +1,10 @@
 taller de proyecto/Images/
 taller de proyecto/test_img/
 
+*.h5
+*.model
+
+*.ipynb_checkpoints
+*__pycache__
+
+*data/
